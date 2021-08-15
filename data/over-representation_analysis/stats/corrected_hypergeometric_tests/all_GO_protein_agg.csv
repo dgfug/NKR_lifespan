@@ -1,0 +1,108 @@
+GO Term,GO ID,GO_Type,Phenotype,# Reference list,# Analyzed List,Expected,Over/Under,Fold Enrichment,raw p-value,FDR
+chemokine activity,GO:0008009,Molecular Function,Lower aggregation propensity in NKM,9,5,0.23,+,22.05,1.44e-05,0.00211
+transmembrane receptor protein serine/threonine kinase binding,GO:0070696,Molecular Function,Lower aggregation propensity in NKM,15,5,0.38,+,13.23,9.86e-05,0.0115
+CCR chemokine receptor binding,GO:0048020,Molecular Function,Lower aggregation propensity in NKM,12,4,0.3,+,13.23,0.000513,0.0433
+receptor serine/threonine kinase binding,GO:0033612,Molecular Function,Lower aggregation propensity in NKM,18,5,0.45,+,11.02,0.000201,0.0219
+chemokine receptor binding,GO:0042379,Molecular Function,Lower aggregation propensity in NKM,18,5,0.45,+,11.02,0.000201,0.0227
+cytokine activity,GO:0005125,Molecular Function,Lower aggregation propensity in NKM,84,14,2.12,+,6.61,1.05e-07,4.41e-05
+receptor ligand activity,GO:0048018,Molecular Function,Lower aggregation propensity in NKM,192,29,4.84,+,5.99,1.01e-13,1.7e-10
+signaling receptor activator activity,GO:0030546,Molecular Function,Lower aggregation propensity in NKM,195,29,4.91,+,5.9,1.43e-13,1.61e-10
+receptor regulator activity,GO:0030545,Molecular Function,Lower aggregation propensity in NKM,207,30,5.22,+,5.75,9.65e-14,3.26e-10
+serine-type peptidase activity,GO:0008236,Molecular Function,Lower aggregation propensity in NKM,71,10,1.79,+,5.59,2.71e-05,0.00381
+serine-type endopeptidase activity,GO:0004252,Molecular Function,Lower aggregation propensity in NKM,65,9,1.64,+,5.49,7.74e-05,0.00932
+growth factor activity,GO:0008083,Molecular Function,Lower aggregation propensity in NKM,80,11,2.02,+,5.46,1.31e-05,0.00201
+serine hydrolase activity,GO:0017171,Molecular Function,Lower aggregation propensity in NKM,73,10,1.84,+,5.44,3.36e-05,0.00436
+peptidase inhibitor activity,GO:0030414,Molecular Function,Lower aggregation propensity in NKM,84,9,2.12,+,4.25,0.000449,0.0421
+signaling receptor binding,GO:0005102,Molecular Function,Lower aggregation propensity in NKM,775,49,19.53,+,2.51,4.18e-09,2.35e-06
+peptidase activity,GO:0008233,Molecular Function,Lower aggregation propensity in NKM,325,20,8.19,+,2.44,0.000481,0.0416
+molecular function regulator,GO:0098772,Molecular Function,Lower aggregation propensity in NKM,1325,58,33.39,+,1.74,2.99e-05,0.00403
+binding,GO:0005488,Molecular Function,Lower aggregation propensity in NKM,7257,159,182.87,-,0.87,0.000608,0.05
+ion binding,GO:0043167,Molecular Function,Lower aggregation propensity in NKM,3242,50,81.69,-,0.61,1.12e-05,0.00181
+heterocyclic compound binding,GO:1901363,Molecular Function,Lower aggregation propensity in NKM,3329,39,83.89,-,0.46,2.09e-10,1.41e-07
+organic cyclic compound binding,GO:0097159,Molecular Function,Lower aggregation propensity in NKM,3357,39,84.59,-,0.46,1.36e-10,1.14e-07
+ribonucleotide binding,GO:0032553,Molecular Function,Lower aggregation propensity in NKM,1197,13,30.16,-,0.43,0.000455,0.0415
+purine nucleotide binding,GO:0017076,Molecular Function,Lower aggregation propensity in NKM,1198,13,30.19,-,0.43,0.000456,0.0405
+anion binding,GO:0043168,Molecular Function,Lower aggregation propensity in NKM,1476,16,37.19,-,0.43,5.51e-05,0.00689
+purine ribonucleotide binding,GO:0032555,Molecular Function,Lower aggregation propensity in NKM,1186,13,29.89,-,0.43,0.000448,0.0432
+nucleic acid binding,GO:0003676,Molecular Function,Lower aggregation propensity in NKM,2160,22,54.43,-,0.4,9.71e-08,4.68e-05
+DNA binding,GO:0003677,Molecular Function,Lower aggregation propensity in NKM,1398,12,35.23,-,0.34,3.85e-06,0.000649
+transcription regulator activity,GO:0140110,Molecular Function,Lower aggregation propensity in NKM,1053,6,26.53,-,0.23,1.51e-06,0.000319
+double-stranded DNA binding,GO:0003690,Molecular Function,Lower aggregation propensity in NKM,906,3,22.83,-,0.13,2.31e-07,7.09e-05
+sequence-specific DNA binding,GO:0043565,Molecular Function,Lower aggregation propensity in NKM,926,3,23.33,-,0.13,1.54e-07,5.21e-05
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,Molecular Function,Lower aggregation propensity in NKM,735,2,18.52,-,0.11,2.57e-06,0.000481
+transcription regulatory region sequence-specific DNA binding,GO:0000976,Molecular Function,Lower aggregation propensity in NKM,801,2,20.18,-,0.1,5.21e-07,0.000126
+regulatory region nucleic acid binding,GO:0001067,Molecular Function,Lower aggregation propensity in NKM,805,2,20.28,-,0.1,3.33e-07,8.64e-05
+sequence-specific double-stranded DNA binding,GO:1990837,Molecular Function,Lower aggregation propensity in NKM,843,2,21.24,-,0.09,1.48e-07,5.54e-05
+chromatin binding,GO:0003682,Molecular Function,Lower aggregation propensity in NKM,456,1,11.49,-,0.09,0.000257,0.0271
+"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,Molecular Function,Lower aggregation propensity in NKM,679,1,17.11,-,0.06,9.56e-07,0.000215
+cis-regulatory region sequence-specific DNA binding,GO:0000987,Molecular Function,Lower aggregation propensity in NKM,650,1,16.38,-,0.06,2.22e-06,0.000441
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,Molecular Function,Lower aggregation propensity in NKM,634,1,15.98,-,0.06,3.34e-06,0.000592
+DNA-binding transcription factor activity,GO:0003700,Molecular Function,Lower aggregation propensity in NKM,722,1,18.19,-,0.05,2.71e-07,7.63e-05
+anchored component of plasma membrane,GO:0046658,Cellular Component,Lower aggregation propensity in NKM,36,6,0.91,+,6.61,0.000517,0.0331
+anchored component of membrane,GO:0031225,Cellular Component,Lower aggregation propensity in NKM,89,14,2.24,+,6.24,1.98e-07,2.13e-05
+cell surface,GO:0009986,Cellular Component,Lower aggregation propensity in NKM,198,20,4.99,+,4.01,3.81e-07,3.86e-05
+extracellular space,GO:0005615,Cellular Component,Lower aggregation propensity in NKM,646,65,16.28,+,3.99,1.78e-21,1.53e-18
+extracellular region,GO:0005576,Cellular Component,Lower aggregation propensity in NKM,1001,92,25.22,+,3.65,1.11e-28,1.92e-25
+intrinsic component of membrane,GO:0031224,Cellular Component,Lower aggregation propensity in NKM,487,37,12.27,+,3.02,4.82e-09,6.4e-07
+integral component of membrane,GO:0016021,Cellular Component,Lower aggregation propensity in NKM,401,25,10.1,+,2.47,6.59e-05,0.00516
+cytoplasm,GO:0005737,Cellular Component,Lower aggregation propensity in NKM,6316,132,159.15,-,0.83,0.000365,0.0242
+intracellular anatomical structure,GO:0005622,Cellular Component,Lower aggregation propensity in NKM,7876,146,198.46,-,0.74,1.59e-15,5.47e-13
+membrane-bounded organelle,GO:0043227,Cellular Component,Lower aggregation propensity in NKM,6354,114,160.11,-,0.71,1.3e-09,2.49e-07
+organelle,GO:0043226,Cellular Component,Lower aggregation propensity in NKM,7102,120,178.96,-,0.67,6.88e-16,2.97e-13
+intracellular membrane-bounded organelle,GO:0043231,Cellular Component,Lower aggregation propensity in NKM,6054,100,152.55,-,0.66,1.1e-11,2.7e-09
+intracellular organelle,GO:0043229,Cellular Component,Lower aggregation propensity in NKM,6812,104,171.65,-,0.61,1.82e-19,1.05e-16
+protein-containing complex,GO:0032991,Cellular Component,Lower aggregation propensity in NKM,3173,49,79.95,-,0.61,1.43e-05,0.00118
+intracellular organelle lumen,GO:0070013,Cellular Component,Lower aggregation propensity in NKM,3056,42,77.01,-,0.55,6.7e-07,5.78e-05
+membrane-enclosed lumen,GO:0031974,Cellular Component,Lower aggregation propensity in NKM,3065,42,77.23,-,0.54,4.84e-07,4.4e-05
+organelle lumen,GO:0043233,Cellular Component,Lower aggregation propensity in NKM,3065,42,77.23,-,0.54,4.84e-07,4.64e-05
+cytosol,GO:0005829,Cellular Component,Lower aggregation propensity in NKM,2586,31,65.16,-,0.48,1.76e-07,2.03e-05
+nucleus,GO:0005634,Cellular Component,Lower aggregation propensity in NKM,4562,55,114.96,-,0.48,4.13e-15,1.19e-12
+intracellular non-membrane-bounded organelle,GO:0043232,Cellular Component,Lower aggregation propensity in NKM,2975,35,74.97,-,0.47,5.99e-09,7.38e-07
+non-membrane-bounded organelle,GO:0043228,Cellular Component,Lower aggregation propensity in NKM,2987,35,75.27,-,0.47,4.12e-09,5.92e-07
+nuclear lumen,GO:0031981,Cellular Component,Lower aggregation propensity in NKM,2771,30,69.83,-,0.43,1.84e-09,3.18e-07
+nucleoplasm,GO:0005654,Cellular Component,Lower aggregation propensity in NKM,2503,24,63.07,-,0.38,7.81e-10,1.68e-07
+chromosome,GO:0005694,Cellular Component,Lower aggregation propensity in NKM,809,7,20.39,-,0.34,0.000838,0.0499
+cytoskeleton,GO:0005856,Cellular Component,Lower aggregation propensity in NKM,1559,9,39.28,-,0.23,1.95e-09,3.07e-07
+supramolecular polymer,GO:0099081,Cellular Component,Lower aggregation propensity in NKM,594,3,14.97,-,0.2,0.000319,0.023
+supramolecular fiber,GO:0099512,Cellular Component,Lower aggregation propensity in NKM,590,3,14.87,-,0.2,0.00032,0.0221
+chromatin,GO:0000785,Cellular Component,Lower aggregation propensity in NKM,399,1,10.05,-,0.1,0.000779,0.048
+killing of cells of other organism,GO:0031640,Biological Process,Lower aggregation propensity in NKM,24,7,0.6,+,11.57,7.88e-06,0.00959
+neutrophil migration,GO:1990266,Biological Process,Lower aggregation propensity in NKM,24,6,0.6,+,9.92,7.49e-05,0.0436
+antimicrobial humoral immune response mediated by antimicrobial peptide,GO:0061844,Biological Process,Lower aggregation propensity in NKM,25,6,0.63,+,9.52,9.1e-05,0.0435
+membrane lipid metabolic process,GO:0006643,Biological Process,Lower aggregation propensity in NKM,32,7,0.81,+,8.68,3.9e-05,0.0275
+antimicrobial humoral response,GO:0019730,Biological Process,Lower aggregation propensity in NKM,36,7,0.91,+,7.72,7.51e-05,0.0402
+cell killing,GO:0001906,Biological Process,Lower aggregation propensity in NKM,36,7,0.91,+,7.72,7.51e-05,0.0419
+regulation of leukocyte chemotaxis,GO:0002688,Biological Process,Lower aggregation propensity in NKM,58,9,1.46,+,6.16,3.48e-05,0.0291
+humoral immune response,GO:0006959,Biological Process,Lower aggregation propensity in NKM,76,11,1.92,+,5.74,8.48e-06,0.00945
+regulation of leukocyte migration,GO:0002685,Biological Process,Lower aggregation propensity in NKM,96,11,2.42,+,4.55,6.09e-05,0.0388
+cellular response to growth factor stimulus,GO:0071363,Biological Process,Lower aggregation propensity in NKM,244,18,6.15,+,2.93,7.9e-05,0.0407
+regulation of response to external stimulus,GO:0032101,Biological Process,Lower aggregation propensity in NKM,429,26,10.81,+,2.41,6e-05,0.0402
+lipid metabolic process,GO:0006629,Biological Process,Lower aggregation propensity in NKM,478,29,12.04,+,2.41,2.02e-05,0.0193
+cellular component organization,GO:0016043,Biological Process,Lower aggregation propensity in NKM,2988,46,75.29,-,0.61,3.64e-05,0.0287
+cellular component organization or biogenesis,GO:0071840,Biological Process,Lower aggregation propensity in NKM,3143,48,79.2,-,0.61,1.32e-05,0.0136
+regulation of gene expression,GO:0010468,Biological Process,Lower aggregation propensity in NKM,2658,39,66.98,-,0.58,3.7e-05,0.0275
+regulation of biosynthetic process,GO:0009889,Biological Process,Lower aggregation propensity in NKM,2357,29,59.39,-,0.49,1.89e-06,0.00421
+regulation of nucleobase-containing compound metabolic process,GO:0019219,Biological Process,Lower aggregation propensity in NKM,2271,28,57.23,-,0.49,3.11e-06,0.00595
+regulation of cellular biosynthetic process,GO:0031326,Biological Process,Lower aggregation propensity in NKM,2317,28,58.38,-,0.48,1.62e-06,0.00434
+regulation of RNA metabolic process,GO:0051252,Biological Process,Lower aggregation propensity in NKM,2097,25,52.84,-,0.47,5.03e-06,0.00673
+regulation of nucleic acid-templated transcription,GO:1903506,Biological Process,Lower aggregation propensity in NKM,1905,21,48.0,-,0.44,3.37e-06,0.00501
+regulation of RNA biosynthetic process,GO:2001141,Biological Process,Lower aggregation propensity in NKM,1907,21,48.05,-,0.44,3.37e-06,0.00563
+organelle organization,GO:0006996,Biological Process,Lower aggregation propensity in NKM,2107,23,53.09,-,0.43,6.79e-07,0.00303
+"regulation of transcription, DNA-templated",GO:0006355,Biological Process,Lower aggregation propensity in NKM,1902,20,47.93,-,0.42,1.41e-06,0.00471
+regulation of transcription by RNA polymerase II,GO:0006357,Biological Process,Lower aggregation propensity in NKM,1457,15,36.71,-,0.41,3.24e-05,0.0289
+regulation of macromolecule biosynthetic process,GO:0010556,Biological Process,Lower aggregation propensity in NKM,2239,23,56.42,-,0.41,5.87e-08,0.000393
+regulation of cellular macromolecule biosynthetic process,GO:2000112,Biological Process,Lower aggregation propensity in NKM,2225,22,56.07,-,0.39,2.24e-08,0.0003
+positive regulation of macromolecule biosynthetic process,GO:0010557,Biological Process,Lower aggregation propensity in NKM,1175,11,29.61,-,0.37,8.02e-05,0.0398
+cytoskeleton organization,GO:0007010,Biological Process,Lower aggregation propensity in NKM,809,5,20.39,-,0.25,7.34e-05,0.0446
+binding,GO:0005488,Molecular Function,Higher aggregation propensity in NKM,7257,162,199.0,-,0.81,3.57e-07,0.0012
+organic cyclic compound binding,GO:0097159,Molecular Function,Higher aggregation propensity in NKM,3357,54,92.06,-,0.59,4.47e-07,0.000503
+heterocyclic compound binding,GO:1901363,Molecular Function,Higher aggregation propensity in NKM,3329,53,91.29,-,0.58,4.1e-07,0.000692
+DNA binding,GO:0003677,Molecular Function,Higher aggregation propensity in NKM,1398,18,38.34,-,0.47,0.000165,0.0463
+carbohydrate derivative binding,GO:0097367,Molecular Function,Higher aggregation propensity in NKM,1363,17,37.38,-,0.45,0.000137,0.0419
+purine ribonucleotide binding,GO:0032555,Molecular Function,Higher aggregation propensity in NKM,1186,12,32.52,-,0.37,3.17e-05,0.0134
+ribonucleotide binding,GO:0032553,Molecular Function,Higher aggregation propensity in NKM,1197,12,32.82,-,0.37,2.29e-05,0.011
+purine nucleotide binding,GO:0017076,Molecular Function,Higher aggregation propensity in NKM,1198,12,32.85,-,0.37,2.29e-05,0.0129
+adenyl ribonucleotide binding,GO:0032559,Molecular Function,Higher aggregation propensity in NKM,983,9,26.96,-,0.33,6.54e-05,0.0221
+adenyl nucleotide binding,GO:0030554,Molecular Function,Higher aggregation propensity in NKM,994,9,27.26,-,0.33,4.72e-05,0.0177
+purine ribonucleoside triphosphate binding,GO:0035639,Molecular Function,Higher aggregation propensity in NKM,1148,10,31.48,-,0.32,6.26e-06,0.00528
+ATP binding,GO:0005524,Molecular Function,Higher aggregation propensity in NKM,949,7,26.02,-,0.27,1.12e-05,0.00754

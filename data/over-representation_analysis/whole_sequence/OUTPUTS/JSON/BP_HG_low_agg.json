@@ -1,0 +1,1078 @@
+{"overrepresentation": {
+    "reference": {"reference_organism": "Mus musculus"},
+    "upload_lists": {"input_list": {
+        "organism": "Mus musculus",
+        "list_name": "HG_low_agg.txt"
+    }},
+    "tool_release_date": 20210224,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": {
+            "input_list": {
+                "number_in_list": 7,
+                "fold_enrichment": 11.111764705882354,
+                "fdr": 0.010182258717900069,
+                "expected": 0.6299629433562731,
+                "pValue": 9.8819980091602E-6,
+                "mapped_id_list": {"mapped_id": [
+                    "Q9JIL2",
+                    "O55038",
+                    "F6R5P4",
+                    "P41539",
+                    "P47993",
+                    "P41317",
+                    "O88593"
+                ]},
+                "list_name": "HG_low_agg.txt",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 25,
+            "term": {
+                "level": 0,
+                "id": "GO:0031640",
+                "label": "killing of cells of other organism"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 6,
+                "fold_enrichment": 9.921218487394958,
+                "fdr": 0.04363303152317367,
+                "expected": 0.6047644256220223,
+                "pValue": 7.492047219357928E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "O55038",
+                    "P31428",
+                    "F6R5P4",
+                    "Q91X17",
+                    "P47993",
+                    "P30882"
+                ]},
+                "list_name": "HG_low_agg.txt",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 24,
+            "term": {
+                "level": 0,
+                "id": "GO:1990266",
+                "label": "neutrophil migration"
+            }
+        }},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 9.52436974789916,
+                    "fdr": 0.04515069276971652,
+                    "expected": 0.6299629433562731,
+                    "pValue": 9.100923514612513E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9JIL2",
+                        "O55038",
+                        "F6R5P4",
+                        "P41539",
+                        "P47993",
+                        "O88593"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 25,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0061844",
+                    "label": "antimicrobial humoral immune response mediated by antimicrobial peptide"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 7.716503267973857,
+                    "fdr": 0.04194029962115186,
+                    "expected": 0.9071466384330333,
+                    "pValue": 7.51449937221086E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9JIL2",
+                        "O55038",
+                        "Q9DD06",
+                        "F6R5P4",
+                        "P41539",
+                        "P47993",
+                        "O88593"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 36,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0019730",
+                    "label": "antimicrobial humoral response"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 5.743863334807608,
+                    "fdr": 0.010321187786902282,
+                    "expected": 1.9150873478030703,
+                    "pValue": 8.475779444264658E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9JIL2",
+                        "O55038",
+                        "Q9DD06",
+                        "F6R5P4",
+                        "P41539",
+                        "P47993",
+                        "P41317",
+                        "Q80SU4",
+                        "Q8CG16",
+                        "P98086",
+                        "O88593"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 76,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0006959",
+                    "label": "humoral immune response"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 8.681066176470589,
+                    "fdr": 0.0274933586319434,
+                    "expected": 0.8063525674960296,
+                    "pValue": 3.8997671818359434E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q8R2F2",
+                        "Q9WV54",
+                        "Q9QWR8",
+                        "Q60648",
+                        "P70158",
+                        "Q5SX19",
+                        "Q9D1C3"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 32,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0006643",
+                    "label": "membrane lipid metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 29,
+                    "fold_enrichment": 2.407659716606308,
+                    "fdr": 0.019328832038877704,
+                    "expected": 12.044891476971943,
+                    "pValue": 2.0201840130219325E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q8CHS4",
+                        "Q9D0S9",
+                        "Q9WV54",
+                        "Q91X17",
+                        "Q60648",
+                        "Q8JZV9",
+                        "Q3UW21",
+                        "P51908",
+                        "O55055",
+                        "Q91UZ5",
+                        "P53808",
+                        "Q9QWR8",
+                        "Q9JL56",
+                        "Q8CEE7",
+                        "Q5SX19",
+                        "P97391",
+                        "E9Q9W4",
+                        "Q8R2F2",
+                        "O70302",
+                        "Q60994",
+                        "P31428",
+                        "P70158",
+                        "P33622",
+                        "Q9EPR2",
+                        "Q9DD06",
+                        "Q91V80",
+                        "P22387",
+                        "Q00724",
+                        "Q9D1C3"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 478,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0006629",
+                    "label": "lipid metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 6.157997681831354,
+                    "fdr": 0.025863919307082674,
+                    "expected": 1.4615140285865535,
+                    "pValue": 3.4755546661253315E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q61477",
+                        "Q8CGV8",
+                        "O55038",
+                        "Q9DD06",
+                        "Q30KN8",
+                        "P97953",
+                        "P22387",
+                        "P47993",
+                        "P30882"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 58,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0002688",
+                    "label": "regulation of leukocyte chemotaxis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 4.547225140056022,
+                    "fdr": 0.040779284410588215,
+                    "expected": 2.419057702488089,
+                    "pValue": 6.088732274817203E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q61477",
+                        "Q8CGV8",
+                        "Q9JIL2",
+                        "O55038",
+                        "Q9DD06",
+                        "Q30KN8",
+                        "P97953",
+                        "P22387",
+                        "P47993",
+                        "Q925I7",
+                        "P30882"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 96,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0002685",
+                    "label": "regulation of leukocyte migration"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 26,
+                    "fold_enrichment": 2.371969477446151,
+                    "fdr": 0.04538035687691268,
+                    "expected": 10.961355214399152,
+                    "pValue": 7.114501638037821E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q8VE43",
+                        "Q61477",
+                        "Q64008",
+                        "O70176",
+                        "Q9JHF9",
+                        "Q9D140",
+                        "P30882",
+                        "Q8BGF6",
+                        "P21844",
+                        "O55038",
+                        "P20033",
+                        "P41539",
+                        "Q30KN8",
+                        "P47993",
+                        "P97391",
+                        "O88593",
+                        "Q9ESH5",
+                        "Q8CGV8",
+                        "Q60994",
+                        "Q8VC30",
+                        "P97953",
+                        "Q925I7",
+                        "P20722",
+                        "Q9DD06",
+                        "P09240",
+                        "P22387"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 435,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0032101",
+                    "label": "regulation of response to external stimulus"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 18,
+                "fold_enrichment": 2.927572668411627,
+                "fdr": 0.04233254939442639,
+                "expected": 6.148438327157226,
+                "pValue": 7.90081175707846E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "F8VPQ6",
+                    "P29268",
+                    "P48540",
+                    "P97930",
+                    "Q9ESS2",
+                    "P97953",
+                    "Q925I7",
+                    "P34821",
+                    "Q9Z0J7",
+                    "P51865",
+                    "O55233",
+                    "P20722",
+                    "O55038",
+                    "P63075",
+                    "P41539",
+                    "P20067",
+                    "P47993",
+                    "Q8C4U3"
+                ]},
+                "list_name": "HG_low_agg.txt",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 244,
+            "term": {
+                "level": 0,
+                "id": "GO:0071363",
+                "label": "cellular response to growth factor stimulus"
+            }
+        }},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 15,
+                    "fold_enrichment": 0.4082805961890929,
+                    "fdr": 0.02561434727568978,
+                    "expected": 36.73943885653785,
+                    "pValue": 3.250794353764287E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "O70176",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 1458,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0006357",
+                    "label": "regulation of transcription by RNA polymerase II"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 20,
+                    "fold_enrichment": 0.4170769726703083,
+                    "fdr": 0.003148088321472378,
+                    "expected": 47.95277924827951,
+                    "pValue": 1.4101179491477616E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q99LT0",
+                        "Q60994",
+                        "O70176",
+                        "Q62406",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "P47993",
+                        "Q8C4U3",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 1903,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006355",
+                    "label": "regulation of transcription, DNA-templated"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 39,
+                    "fold_enrichment": 0.5803187416698964,
+                    "fdr": 0.02354839986402509,
+                    "expected": 67.20444679724721,
+                    "pValue": 2.8127987892825788E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9CX63",
+                        "Q8BL97",
+                        "O70176",
+                        "Q62406",
+                        "Q9R0R1",
+                        "Q9JHF9",
+                        "Q9ESS2",
+                        "Q9D140",
+                        "P30882",
+                        "Q08024",
+                        "P51865",
+                        "P51908",
+                        "O55233",
+                        "O55055",
+                        "Q9JL95",
+                        "Q30KN8",
+                        "P02525",
+                        "P47993",
+                        "Q9WVH9",
+                        "O35900",
+                        "O88593",
+                        "Q6ZQ08",
+                        "O70302",
+                        "Q99LT0",
+                        "Q60994",
+                        "P29268",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q9Z2C8",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P63075",
+                        "P20067",
+                        "P22387",
+                        "Q8C4U3",
+                        "Q00724",
+                        "A2AA28"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2667,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010468",
+                    "label": "regulation of gene expression"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 21,
+                    "fold_enrichment": 0.43724152830072216,
+                    "fdr": 0.005016150527960763,
+                    "expected": 48.028374801482265,
+                    "pValue": 3.3703139045649026E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q99LT0",
+                        "Q60994",
+                        "Q9WV54",
+                        "O70176",
+                        "Q62406",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "P47993",
+                        "Q8C4U3",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 1906,
+                "term": {
+                    "level": 2,
+                    "id": "GO:1903506",
+                    "label": "regulation of nucleic acid-templated transcription"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 21,
+                    "fold_enrichment": 0.4367832038475768,
+                    "fdr": 0.005641463793870294,
+                    "expected": 48.078771836950764,
+                    "pValue": 3.369295285626156E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q99LT0",
+                        "Q60994",
+                        "Q9WV54",
+                        "O70176",
+                        "Q62406",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "P47993",
+                        "Q8C4U3",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 1908,
+                "term": {
+                    "level": 3,
+                    "id": "GO:2001141",
+                    "label": "regulation of RNA biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 23,
+                    "fold_enrichment": 0.40530732719375495,
+                    "fdr": 2.715427021114409E-4,
+                    "expected": 56.74706193753308,
+                    "pValue": 4.054388982626964E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q99LT0",
+                        "Q60994",
+                        "Q9WV54",
+                        "O70176",
+                        "Q62406",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "Q9Z2C8",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "Q9JL95",
+                        "P20067",
+                        "P22387",
+                        "P47993",
+                        "Q8C4U3",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2252,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0010556",
+                    "label": "regulation of macromolecule biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 29,
+                    "fold_enrichment": 0.4853906978227816,
+                    "fdr": 0.003662993026011444,
+                    "expected": 59.74568554790894,
+                    "pValue": 1.3672986285970302E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9WV54",
+                        "P43081",
+                        "O70176",
+                        "Q62406",
+                        "P30882",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "Q9JL95",
+                        "P20033",
+                        "P47993",
+                        "Q9WVH9",
+                        "Q6ZQ08",
+                        "Q99LT0",
+                        "Q60994",
+                        "P29268",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "P33622",
+                        "Q05020",
+                        "Q9Z2C8",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "Q8C4U3",
+                        "A2AA28"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2371,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0009889",
+                    "label": "regulation of biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 0.4686451812657042,
+                    "fdr": 0.004898197117171537,
+                    "expected": 53.345262043409214,
+                    "pValue": 3.65673543648491E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9WV54",
+                        "Q8BL97",
+                        "O70176",
+                        "Q62406",
+                        "Q08024",
+                        "P51865",
+                        "P51908",
+                        "O55233",
+                        "O55055",
+                        "P47993",
+                        "Q9WVH9",
+                        "Q6ZQ08",
+                        "Q99LT0",
+                        "Q60994",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q9Z2C8",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "Q8C4U3",
+                        "A2AA28"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2117,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0051252",
+                    "label": "regulation of RNA metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 28,
+                    "fold_enrichment": 0.48544188317528847,
+                    "fdr": 0.004326946971789791,
+                    "expected": 57.67940709370037,
+                    "pValue": 2.2611891603231457E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9WV54",
+                        "P43081",
+                        "Q8BL97",
+                        "O70176",
+                        "Q62406",
+                        "Q08024",
+                        "P51865",
+                        "P51908",
+                        "O55233",
+                        "O55055",
+                        "P47993",
+                        "Q9WVH9",
+                        "P47878",
+                        "Q6ZQ08",
+                        "O70302",
+                        "Q99LT0",
+                        "Q60994",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q9Z2C8",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "Q8C4U3",
+                        "A2AA28"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2289,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0019219",
+                    "label": "regulation of nucleobase-containing compound metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 28,
+                    "fold_enrichment": 0.4766951825775355,
+                    "fdr": 0.003915487453664111,
+                    "expected": 58.73774483853891,
+                    "pValue": 1.1692385079997346E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9WV54",
+                        "P43081",
+                        "O70176",
+                        "Q62406",
+                        "P30882",
+                        "Q08024",
+                        "P51865",
+                        "O55233",
+                        "Q9JL95",
+                        "P20033",
+                        "P47993",
+                        "Q9WVH9",
+                        "Q6ZQ08",
+                        "Q99LT0",
+                        "Q60994",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "P33622",
+                        "Q05020",
+                        "Q9Z2C8",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "P20067",
+                        "P22387",
+                        "Q8C4U3",
+                        "A2AA28"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2331,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0031326",
+                    "label": "regulation of cellular biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 0.3901104677796051,
+                    "fdr": 2.0986850045223975E-4,
+                    "expected": 56.39428268925358,
+                    "pValue": 1.56676745391743E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q99LT0",
+                        "Q60994",
+                        "O70176",
+                        "Q62406",
+                        "Q8K4K2",
+                        "P48540",
+                        "Q9D032",
+                        "Q08024",
+                        "P51865",
+                        "Q9Z2C8",
+                        "O55233",
+                        "P20722",
+                        "Q9EQC7",
+                        "Q9Z2E5",
+                        "Q9JL95",
+                        "P20067",
+                        "P22387",
+                        "P47993",
+                        "Q8C4U3",
+                        "Q9WVH9",
+                        "A2AA28",
+                        "Q6ZQ08"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2238,
+                "term": {
+                    "level": 2,
+                    "id": "GO:2000112",
+                    "label": "regulation of cellular macromolecule biosynthetic process"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 11,
+                "fold_enrichment": 0.36994374020794757,
+                "fdr": 0.04172325147009584,
+                "expected": 29.734250926416095,
+                "pValue": 8.098578112896542E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "P20722",
+                    "O70176",
+                    "Q9EQC7",
+                    "P48540",
+                    "Q9D032",
+                    "P22387",
+                    "Q8C4U3",
+                    "Q9WVH9",
+                    "A2AA28",
+                    "Q08024",
+                    "P51865"
+                ]},
+                "list_name": "HG_low_agg.txt",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 1180,
+            "term": {
+                "level": 0,
+                "id": "GO:0010557",
+                "label": "positive regulation of macromolecule biosynthetic process"
+            }
+        }},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 0.24527116161668625,
+                    "fdr": 0.044684560588288076,
+                    "expected": 20.385600847008998,
+                    "pValue": 7.339009577770345E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q9CVD2",
+                        "Q9CQA8",
+                        "P20033",
+                        "Q8C4U3",
+                        "Q9WVC6"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 809,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0007010",
+                    "label": "cytoskeleton organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 23,
+                    "fold_enrichment": 0.4299350451438229,
+                    "fdr": 0.002148722506583321,
+                    "expected": 53.49645314981472,
+                    "pValue": 4.812368435796911E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q64008",
+                        "Q99LT0",
+                        "Q8C0V1",
+                        "Q924H5",
+                        "Q9CQP8",
+                        "Q91X17",
+                        "Q9DCJ5",
+                        "Q9D9W1",
+                        "Q8BRM6",
+                        "Q8R570",
+                        "Q3URR0",
+                        "Q9CVD2",
+                        "Q3UMW8",
+                        "Q9CQA8",
+                        "P09240",
+                        "Q3TDN2",
+                        "P20033",
+                        "Q8BTU1",
+                        "Q8C4U3",
+                        "P97391",
+                        "P28658",
+                        "Q8C4X1",
+                        "Q9WVC6"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 2123,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006996",
+                    "label": "organelle organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 46,
+                    "fold_enrichment": 0.6058759381615241,
+                    "fdr": 0.01855233477743459,
+                    "expected": 75.92313393329805,
+                    "pValue": 2.077529090418207E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q61477",
+                        "Q64008",
+                        "Q9Z1L4",
+                        "Q8C0V1",
+                        "O70176",
+                        "Q924H5",
+                        "Q91X17",
+                        "Q9DCJ5",
+                        "Q9D140",
+                        "P30882",
+                        "Q9D9W1",
+                        "Q8BRM6",
+                        "Q3URR0",
+                        "Q9CVD2",
+                        "P21844",
+                        "P20033",
+                        "Q9WVH9",
+                        "Q9QZF2",
+                        "P97391",
+                        "P28658",
+                        "Q8C4X1",
+                        "P98086",
+                        "O35900",
+                        "Q8CGV8",
+                        "Q99LT0",
+                        "P29268",
+                        "P62309",
+                        "Q9CQP8",
+                        "Q9Z222",
+                        "P48540",
+                        "Q9D032",
+                        "Q08535",
+                        "Q8VCN9",
+                        "Q9D7A6",
+                        "O08712",
+                        "Q8R570",
+                        "Q3UMW8",
+                        "Q9CQA8",
+                        "P09240",
+                        "Q3TDN2",
+                        "Q60715",
+                        "P22387",
+                        "Q8BTU1",
+                        "Q8C4U3",
+                        "Q9R0A5",
+                        "Q9WVC6"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 3013,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0016043",
+                    "label": "cellular component organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 48,
+                    "fold_enrichment": 0.6014758287274493,
+                    "fdr": 0.010974322778650234,
+                    "expected": 79.80370566437269,
+                    "pValue": 9.831420182441419E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Q61477",
+                        "Q64008",
+                        "Q9Z1L4",
+                        "Q8C0V1",
+                        "O70176",
+                        "Q924H5",
+                        "Q91X17",
+                        "Q9DCJ5",
+                        "Q9D140",
+                        "P30882",
+                        "Q9D9W1",
+                        "Q8BRM6",
+                        "Q3URR0",
+                        "Q9CVD2",
+                        "P21844",
+                        "Q6DFW4",
+                        "P20033",
+                        "Q9WVH9",
+                        "Q9QZF2",
+                        "P97391",
+                        "P28658",
+                        "Q8C4X1",
+                        "P98086",
+                        "O35900",
+                        "P62754",
+                        "Q8CGV8",
+                        "Q99LT0",
+                        "P29268",
+                        "P62309",
+                        "Q9CQP8",
+                        "Q9Z222",
+                        "P48540",
+                        "Q9D032",
+                        "Q08535",
+                        "Q8VCN9",
+                        "Q9D7A6",
+                        "O08712",
+                        "Q8R570",
+                        "Q3UMW8",
+                        "Q9CQA8",
+                        "P09240",
+                        "Q3TDN2",
+                        "Q60715",
+                        "P22387",
+                        "Q8BTU1",
+                        "Q8C4U3",
+                        "Q9R0A5",
+                        "Q9WVC6"
+                    ]},
+                    "list_name": "HG_low_agg.txt",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 3167,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0071840",
+                    "label": "cellular component organization or biogenesis"
+                }
+            }
+        ]}
+    ]
+}}

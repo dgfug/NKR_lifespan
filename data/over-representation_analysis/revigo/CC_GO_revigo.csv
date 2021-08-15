@@ -1,0 +1,30 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Value, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0031225", "anchored component of membrane", 0.962, 2.622, -6.272, 2.307, -6.703, 0.959, 0.000, -1, False
+"GO:0032991", "protein-containing complex", 26.205, 0.409, 3.852, 3.741, -4.845, 1.000, 0.000, -1, False
+"GO:0061702", "inflammasome complex", 0.090, 2.439, 1.001, 1.301, -5.545, 0.972, 0.001, -1, False
+"GO:0031012", "extracellular matrix", 2.462, 4.698, -2.066, 2.714, -5.082, 0.916, 0.001, -1, False
+"GO:0005604", "basement membrane", 0.552, null, null, 2.068, -3.975, 0.920, 0.811, 31012, True
+"GO:0005615", "extracellular space", 9.957, 5.074, 3.041, 3.321, -20.750, 0.995, 0.002, -1, False
+"GO:0009986", "cell surface", 5.681, -3.413, 6.663, 3.077, -6.419, 0.996, 0.002, -1, False
+"GO:0043226", "organelle", 61.186, 3.580, 4.925, 4.109, -15.162, 0.991, 0.004, -1, False
+"GO:0005576", "extracellular region", 13.724, 1.427, 6.449, 3.460, -3.646, 0.995, 0.004, -1, False
+"GO:0031974", "membrane-enclosed lumen", 21.662, 6.047, 0.771, 3.658, -6.315, 0.994, 0.005, -1, False
+"GO:0005622", "intracellular anatomical structure", 67.390, -1.130, 6.698, 4.151, -14.799, 0.990, 0.011, -1, False
+"GO:0043229", "intracellular organelle", 59.638, -4.743, -2.112, 4.098, -18.740, 0.816, 0.034, -1, False
+"GO:0005829", "cytosol", 18.567, -2.729, -7.798, 3.591, -6.754, 0.931, 0.117, -1, False
+"GO:0031224", "intrinsic component of membrane", 32.224, 0.605, -7.080, 3.830, -8.317, 0.953, 0.133, -1, False
+"GO:0046658", "anchored component of plasma membrane", 0.381, 3.509, -4.384, 1.908, -3.287, 0.932, 0.156, -1, False
+"GO:0005654", "nucleoplasm", 16.886, -7.047, -3.641, 3.550, -9.107, 0.762, 0.166, -1, False
+"GO:0043232", "intracellular non-membrane-bounded organelle", 21.462, -6.218, 2.104, 3.654, -8.223, 0.809, 0.186, -1, False
+"GO:0043228", "non-membrane-bounded organelle", 21.548, -2.343, -0.776, 3.656, -8.385, 0.894, 0.186, -1, False
+"GO:0030312", "external encapsulating structure", 2.471, 5.498, -2.849, 2.716, -5.082, 0.961, 0.195, -1, False
+"GO:0005737", "cytoplasm", 53.852, -4.310, -5.588, 4.053, -3.438, 0.901, 0.227, -1, False
+"GO:0005634", "nucleus", 34.005, -6.814, -1.421, 3.854, -14.384, 0.841, 0.239, -1, False
+"GO:0016021", "integral component of membrane", 31.357, 1.625, -6.198, 3.819, -4.181, 0.936, 0.334, -1, False
+"GO:0043231", "intracellular membrane-bounded organelle", 54.271, -5.570, -1.714, 4.057, -10.959, 0.810, 0.338, -1, False
+"GO:0043227", "membrane-bounded organelle", 56.448, -5.595, -0.337, 4.074, -8.886, 0.844, 0.350, -1, False
+"GO:0005694", "chromosome", 5.681, -6.126, 4.106, 3.077, -3.077, 0.855, 0.546, -1, False
+"GO:0005856", "cytoskeleton", 10.971, -6.326, 3.195, 3.363, -8.710, 0.835, 0.642, -1, False
+"GO:0031981", "nuclear lumen", 19.167, -7.109, -3.215, 3.605, -8.735, 0.754, 0.699, -1, False
+"GO:0070013", "intracellular organelle lumen", 21.657, null, null, 3.658, -6.174, 0.752, 0.753, 31981, True
+"GO:0043233", "organelle lumen", 21.662, null, null, 3.658, -6.315, 0.770, 0.783, 31981, True

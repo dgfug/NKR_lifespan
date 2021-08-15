@@ -1,0 +1,38 @@
+{"overrepresentation": {
+    "reference": {"reference_organism": "Mus musculus"},
+    "upload_lists": {"input_list": {
+        "organism": "Mus musculus",
+        "list_name": "HG_high_dom_agg.txt"
+    }},
+    "tool_release_date": 20210224,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01",
+    "annotation_type": "GO cellular component complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": {"result": {
+        "input_list": {
+            "number_in_list": 7,
+            "fold_enrichment": 16.507258514796202,
+            "fdr": 0.004866700308118701,
+            "expected": 0.4240558778264473,
+            "pValue": 2.8493561522943215E-6,
+            "mapped_id_list": {"mapped_id": [
+                "Q3UP24",
+                "Q9D8T2",
+                "P29452",
+                "Q2LKU9",
+                "Q8R4B8",
+                "Q91WS2",
+                "O08736"
+            ]},
+            "list_name": "HG_high_dom_agg.txt",
+            "plus_minus": "+"
+        },
+        "number_in_reference": 9,
+        "term": {
+            "level": 0,
+            "id": "GO:0061702",
+            "label": "inflammasome complex"
+        }
+    }}
+}}

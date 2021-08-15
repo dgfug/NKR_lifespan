@@ -1,0 +1,98 @@
+{"overrepresentation": {
+    "reference": {"reference_organism": "Mus musculus"},
+    "upload_lists": {"input_list": {
+        "organism": "Mus musculus",
+        "list_name": "HG_low_dom_agg.txt"
+    }},
+    "tool_release_date": 20210224,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01",
+    "annotation_type": "GO molecular function complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": {
+            "input_list": {
+                "number_in_list": 11,
+                "fold_enrichment": 5.36968331021729,
+                "fdr": 0.04224275369302833,
+                "expected": 2.0485379424647805,
+                "pValue": 2.5040162236531315E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "P28862",
+                    "Q69Z28",
+                    "O55123",
+                    "Q9EPX2",
+                    "Q9JHI0",
+                    "Q8BLI0",
+                    "Q62381",
+                    "P33435",
+                    "Q3U435",
+                    "Q10738",
+                    "Q80T21"
+                ]},
+                "list_name": "HG_low_dom_agg.txt",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 42,
+            "term": {
+                "level": 0,
+                "id": "GO:0004222",
+                "label": "metalloendopeptidase activity"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 35,
+                "fold_enrichment": 2.4659276682347446,
+                "fdr": 0.010144796627755203,
+                "expected": 14.193441458505978,
+                "pValue": 3.0067565583151165E-6,
+                "mapped_id_list": {"mapped_id": [
+                    "Q9JLB4",
+                    "Q4VBE4",
+                    "Q91X17",
+                    "Q9JHF7",
+                    "Q3UW68",
+                    "P33435",
+                    "Q61495",
+                    "P97429",
+                    "P31695",
+                    "P42567",
+                    "P07091",
+                    "Q9QZ10",
+                    "Q60902",
+                    "Q9Z185",
+                    "P07356",
+                    "Q91WP0",
+                    "O88673",
+                    "Q8K0T7",
+                    "A2AVA0",
+                    "Q91ZU6",
+                    "Q8CG14",
+                    "Q8BLY1",
+                    "P10107",
+                    "O35385",
+                    "P70375",
+                    "Q2PZL6",
+                    "P35546",
+                    "P33587",
+                    "Q80XL1",
+                    "P10493",
+                    "O35655",
+                    "P08032",
+                    "Q62381",
+                    "Q5STE3",
+                    "Q8CG16"
+                ]},
+                "list_name": "HG_low_dom_agg.txt",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 291,
+            "term": {
+                "level": 0,
+                "id": "GO:0005509",
+                "label": "calcium ion binding"
+            }
+        }}
+    ]
+}}
