@@ -4,4 +4,4 @@ Biorxiv:
 
 Corresponding author: Savandara Besse
 
-Detailed README.md that provide detailed description of this repo will be available soon.
+Description: available soon.
